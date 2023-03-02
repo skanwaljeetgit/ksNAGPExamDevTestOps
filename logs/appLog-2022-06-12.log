@@ -1,0 +1,186 @@
+15:44:14.443 [main] INFO  com.estore.utility.Log - ********************************Started productAvailabilityTest*****************************************
+15:44:14.479 [main] INFO  com.estore.utility.Log - Index Page load
+15:44:42.955 [main] INFO  com.estore.utility.Log - Entered pruduct name: t-shirt
+15:44:42.956 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+15:44:43.030 [main] INFO  com.estore.utility.Log - Element displayed
+15:44:43.032 [main] INFO  com.estore.utility.Log - productAvailability validated successfully
+15:44:43.033 [main] INFO  com.estore.utility.Log - *********************************Ended productAvailabilityTest******************************************
+16:07:33.256 [main] INFO  com.estore.utility.Log - ********************************Started orderHistoryDetailLabelTest*****************************************
+16:07:33.284 [main] INFO  com.estore.utility.Log - Index Page load
+16:08:15.317 [main] INFO  com.estore.utility.Log - Element not found
+16:08:15.318 [main] ERROR com.estore.utility.Log - *********************************timeout: Timed out receiving message from renderer: 40.000
+  (Session info: chrome=102.0.5005.63)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'IN-9H42M63', ip: '192.168.43.63', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.63, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\KANWAL~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60525}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c573ac3cff1ff15c85212a93da5b30e7 Failed******************************************
+16:08:15.333 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: orderHistoryDetailLabelTest timeout:_Timed_out_receiving_message_from_renderer:_40.000
+__(Session_info:_chrome=102.0.5005.63)
+Build_info:_version:_'3.141.59',_revision:_'e82be7d358',_time:_'2018-11-14T08:17:03'
+System_info:_host:_'IN-9H42M63',_ip:_'192.168.43.63',_os.name:_'Windows_11',_os.arch:_'amd64',_os.version:_'10.0',_java.version:_'18.0.1.1'
+Driver_info:_org.openqa.selenium.chrome.ChromeDriver
+Capabilities_{acceptInsecureCerts:_false,_browserName:_chrome,_browserVersion:_102.0.5005.63,_chrome:_{chromedriverVersion:_102.0.5005.61_(0e59bcc00cc4...,_userDataDir:_C:\Users\KANWAL~1\AppData\L...},_goog:chromeOptions:_{debuggerAddress:_localhost:60525},_javascriptEnabled:_true,_networkConnectionEnabled:_false,_pageLoadStrategy:_normal,_platform:_WINDOWS,_platformName:_WINDOWS,_proxy:_Proxy(),_setWindowRect:_true,_strictFileInteractability:_false,_timeouts:_{implicit:_0,_pageLoad:_300000,_script:_30000},_unhandledPromptBehavior:_dismiss_and_notify,_webauthn:extension:credBlob:_true,_webauthn:extension:largeBlob:_true,_webauthn:virtualAuthenticators:_true}
+Session_ID:_c573ac3cff1ff15c85212a93da5b30e7 Failed******************************************
+16:15:18.814 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+16:15:18.838 [main] INFO  com.estore.utility.Log - Index Page load
+16:16:01.619 [main] INFO  com.estore.utility.Log - Element not found
+16:16:01.620 [main] ERROR com.estore.utility.Log - *********************************timeout: Timed out receiving message from renderer: 40.000
+  (Session info: chrome=102.0.5005.63)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'IN-9H42M63', ip: '192.168.43.63', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.63, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\KANWAL~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60872}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c20fcccc632d5be6e0cf33dc147560d3 Failed******************************************
+16:16:01.629 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: loginTest timeout:_Timed_out_receiving_message_from_renderer:_40.000
+__(Session_info:_chrome=102.0.5005.63)
+Build_info:_version:_'3.141.59',_revision:_'e82be7d358',_time:_'2018-11-14T08:17:03'
+System_info:_host:_'IN-9H42M63',_ip:_'192.168.43.63',_os.name:_'Windows_11',_os.arch:_'amd64',_os.version:_'10.0',_java.version:_'18.0.1.1'
+Driver_info:_org.openqa.selenium.chrome.ChromeDriver
+Capabilities_{acceptInsecureCerts:_false,_browserName:_chrome,_browserVersion:_102.0.5005.63,_chrome:_{chromedriverVersion:_102.0.5005.61_(0e59bcc00cc4...,_userDataDir:_C:\Users\KANWAL~1\AppData\L...},_goog:chromeOptions:_{debuggerAddress:_localhost:60872},_javascriptEnabled:_true,_networkConnectionEnabled:_false,_pageLoadStrategy:_normal,_platform:_WINDOWS,_platformName:_WINDOWS,_proxy:_Proxy(),_setWindowRect:_true,_strictFileInteractability:_false,_timeouts:_{implicit:_0,_pageLoad:_300000,_script:_30000},_unhandledPromptBehavior:_dismiss_and_notify,_webauthn:extension:credBlob:_true,_webauthn:extension:largeBlob:_true,_webauthn:virtualAuthenticators:_true}
+Session_ID:_c20fcccc632d5be6e0cf33dc147560d3 Failed******************************************
+16:17:01.725 [main] ERROR com.estore.utility.Log - *********************************timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=102.0.5005.63)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'IN-9H42M63', ip: '192.168.43.63', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.63, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\KANWAL~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60872}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c20fcccc632d5be6e0cf33dc147560d3 Failed******************************************
+16:17:21.074 [main] INFO  com.estore.utility.Log - ********************************Started endToEndTest*****************************************
+16:17:21.075 [main] INFO  com.estore.utility.Log - Index Page load
+16:17:29.307 [main] INFO  com.estore.utility.Log - Entered pruduct name: t-shirt
+16:17:29.307 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+16:17:38.274 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+16:17:38.464 [main] INFO  com.estore.utility.Log - Entered quantity: 2
+16:17:38.725 [main] INFO  com.estore.utility.Log - Selected size: M
+16:17:38.876 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+16:18:21.936 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+16:18:34.417 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Order page
+16:18:49.131 [main] INFO  com.estore.utility.Log - User logged in
+16:18:57.857 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Shipping Page
+16:18:57.913 [main] INFO  com.estore.utility.Log - Checked Terms checkbox on Shipping Page
+16:19:38.014 [main] INFO  com.estore.utility.Log - Element not found
+16:19:38.015 [main] ERROR com.estore.utility.Log - *********************************timeout: Timed out receiving message from renderer: 40.000
+  (Session info: chrome=102.0.5005.63)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'IN-9H42M63', ip: '192.168.43.63', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.63, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\KANWAL~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61149}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8172e2141b6c901f07ba13764b5765ce Failed******************************************
+16:19:38.018 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: endToEndTest timeout:_Timed_out_receiving_message_from_renderer:_40.000
+__(Session_info:_chrome=102.0.5005.63)
+Build_info:_version:_'3.141.59',_revision:_'e82be7d358',_time:_'2018-11-14T08:17:03'
+System_info:_host:_'IN-9H42M63',_ip:_'192.168.43.63',_os.name:_'Windows_11',_os.arch:_'amd64',_os.version:_'10.0',_java.version:_'18.0.1.1'
+Driver_info:_org.openqa.selenium.chrome.ChromeDriver
+Capabilities_{acceptInsecureCerts:_false,_browserName:_chrome,_browserVersion:_102.0.5005.63,_chrome:_{chromedriverVersion:_102.0.5005.61_(0e59bcc00cc4...,_userDataDir:_C:\Users\KANWAL~1\AppData\L...},_goog:chromeOptions:_{debuggerAddress:_localhost:61149},_javascriptEnabled:_true,_networkConnectionEnabled:_false,_pageLoadStrategy:_normal,_platform:_WINDOWS,_platformName:_WINDOWS,_proxy:_Proxy(),_setWindowRect:_true,_strictFileInteractability:_false,_timeouts:_{implicit:_0,_pageLoad:_300000,_script:_30000},_unhandledPromptBehavior:_dismiss_and_notify,_webauthn:extension:credBlob:_true,_webauthn:extension:largeBlob:_true,_webauthn:virtualAuthenticators:_true}
+Session_ID:_8172e2141b6c901f07ba13764b5765ce Failed******************************************
+16:19:57.721 [main] INFO  com.estore.utility.Log - ********************************Started accountCreatePageTest*****************************************
+16:19:57.721 [main] INFO  com.estore.utility.Log - Index Page load
+16:20:04.975 [main] INFO  com.estore.utility.Log - Clicked on Sign in button
+16:20:05.296 [main] INFO  com.estore.utility.Log - Entered Email address for account creation: test123123123123@test.com
+16:20:07.926 [main] INFO  com.estore.utility.Log - Element displayed
+16:20:07.929 [main] INFO  com.estore.utility.Log - createAccountFormHeader validated successfully
+16:20:07.930 [main] INFO  com.estore.utility.Log - *********************************Ended accountCreatePageTest******************************************
+16:20:24.936 [main] INFO  com.estore.utility.Log - ********************************Started storeTitleTest*****************************************
+16:20:24.937 [main] INFO  com.estore.utility.Log - Index Page load
+16:20:24.952 [main] INFO  com.estore.utility.Log - Store title: My Store validated successfully
+16:20:24.953 [main] INFO  com.estore.utility.Log - *********************************Ended storeTitleTest******************************************
+16:21:22.766 [main] INFO  com.estore.utility.Log - ********************************Started orderHistoryDetailLabelTest*****************************************
+16:21:22.766 [main] INFO  com.estore.utility.Log - Index Page load
+16:21:26.104 [main] INFO  com.estore.utility.Log - Clicked on Sign in button
+16:21:31.294 [main] INFO  com.estore.utility.Log - Entered Email address: test12312312312@gmail.comand password: ABC123 for login
+16:21:31.362 [main] INFO  com.estore.utility.Log - Element displayed
+16:21:31.362 [main] INFO  com.estore.utility.Log - orderHistory label validated successfully
+16:21:31.362 [main] INFO  com.estore.utility.Log - *********************************Ended orderHistoryDetailLabelTest******************************************
+16:21:50.196 [main] INFO  com.estore.utility.Log - ********************************Started totalPriceTest*****************************************
+16:21:50.196 [main] INFO  com.estore.utility.Log - Index Page load
+16:22:11.200 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+16:22:30.421 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+16:22:30.558 [main] INFO  com.estore.utility.Log - Entered quantity: 2
+16:22:30.696 [main] INFO  com.estore.utility.Log - Selected size: M
+16:22:30.810 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+16:22:41.820 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+16:22:41.886 [main] INFO  com.estore.utility.Log - totalExpectedPrice validated successfully
+16:22:41.886 [main] INFO  com.estore.utility.Log - *********************************Ended totalPriceTest******************************************
+16:23:15.400 [main] INFO  com.estore.utility.Log - ********************************Started addToCartTest*****************************************
+16:23:15.401 [main] INFO  com.estore.utility.Log - Index Page load
+16:23:31.517 [main] INFO  com.estore.utility.Log - Entered pruduct name: t-shirt
+16:23:31.517 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+16:23:39.744 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+16:23:39.875 [main] INFO  com.estore.utility.Log - Entered quantity: 2
+16:23:40.032 [main] INFO  com.estore.utility.Log - Selected size: M
+16:23:40.147 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+16:23:42.880 [main] INFO  com.estore.utility.Log - Element displayed
+16:23:42.880 [main] INFO  com.estore.utility.Log - addToCartMessage validated successfully
+16:23:42.880 [main] INFO  com.estore.utility.Log - *********************************Ended addToCartTest******************************************
+22:01:50.181 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+22:01:50.253 [main] INFO  com.estore.utility.Log - Index Page load
+22:01:53.541 [main] INFO  com.estore.utility.Log - Click on SignIn
+22:01:57.301 [main] INFO  com.estore.utility.Log - Entered Email address: test12312312312@gmail.comand password: ABC123 for login
+22:01:57.314 [main] INFO  com.estore.utility.Log - Log in validated successfully
+22:01:57.314 [main] INFO  com.estore.utility.Log - *********************************Ended loginTest******************************************
+22:02:15.349 [main] INFO  com.estore.utility.Log - ********************************Started endToEndTest*****************************************
+22:02:15.350 [main] INFO  com.estore.utility.Log - Index Page load
+22:02:19.557 [main] INFO  com.estore.utility.Log - Entered product name: t-shirt
+22:02:19.557 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+22:02:24.095 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+22:02:28.843 [main] INFO  com.estore.utility.Log - Entered quantity: 2
+22:02:29.502 [main] INFO  com.estore.utility.Log - Selected size: M
+22:02:30.016 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+22:02:37.496 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+22:02:50.732 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Order page
+22:02:56.608 [main] INFO  com.estore.utility.Log - User logged in
+22:03:00.714 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Shipping Page
+22:03:00.972 [main] INFO  com.estore.utility.Log - Checked Terms checkbox on Shipping Page
+22:03:03.242 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Payment Page
+22:03:04.916 [main] INFO  com.estore.utility.Log - Clicked on Payment Method on Order Summary Page
+22:03:07.773 [main] INFO  com.estore.utility.Log - Clicked on Confirm Order button on Order Summary Page
+22:03:07.834 [main] INFO  com.estore.utility.Log - confirmOrderMessage validated successfully
+22:03:07.834 [main] INFO  com.estore.utility.Log - *********************************Ended endToEndTest******************************************
+22:03:22.727 [main] INFO  com.estore.utility.Log - ********************************Started accountCreatePageTest*****************************************
+22:03:22.728 [main] INFO  com.estore.utility.Log - Index Page load
+22:03:26.496 [main] INFO  com.estore.utility.Log - Clicked on Sign in button
+22:03:26.928 [main] INFO  com.estore.utility.Log - Entered Email address for account creation: test123123123123@test.com
+22:03:28.646 [main] INFO  com.estore.utility.Log - Element displayed
+22:03:28.646 [main] INFO  com.estore.utility.Log - createAccountFormHeader validated successfully
+22:03:28.647 [main] INFO  com.estore.utility.Log - *********************************Ended accountCreatePageTest******************************************
+22:03:38.759 [main] INFO  com.estore.utility.Log - ********************************Started storeTitleTest*****************************************
+22:03:38.760 [main] INFO  com.estore.utility.Log - Index Page load
+22:03:38.769 [main] INFO  com.estore.utility.Log - Store title: My Store validated successfully
+22:03:38.769 [main] INFO  com.estore.utility.Log - *********************************Ended storeTitleTest******************************************
+22:03:50.018 [main] INFO  com.estore.utility.Log - ********************************Started productAvailabilityTest*****************************************
+22:03:50.019 [main] INFO  com.estore.utility.Log - Index Page load
+22:03:52.637 [main] INFO  com.estore.utility.Log - Entered product name: t-shirt
+22:03:52.637 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+22:03:52.734 [main] INFO  com.estore.utility.Log - Element displayed
+22:03:52.734 [main] INFO  com.estore.utility.Log - productAvailability validated successfully
+22:03:52.734 [main] INFO  com.estore.utility.Log - *********************************Ended productAvailabilityTest******************************************
+22:04:05.289 [main] INFO  com.estore.utility.Log - ********************************Started orderHistoryDetailLabelTest*****************************************
+22:04:05.290 [main] INFO  com.estore.utility.Log - Index Page load
+22:04:08.119 [main] INFO  com.estore.utility.Log - Clicked on Sign in button
+22:04:11.262 [main] INFO  com.estore.utility.Log - Entered Email address: test12312312312@gmail.comand password: ABC123 for login
+22:04:11.337 [main] INFO  com.estore.utility.Log - Element displayed
+22:04:11.337 [main] INFO  com.estore.utility.Log - orderHistory label validated successfully
+22:04:11.337 [main] INFO  com.estore.utility.Log - *********************************Ended orderHistoryDetailLabelTest******************************************
+22:04:22.241 [main] INFO  com.estore.utility.Log - ********************************Started totalPriceTest*****************************************
+22:04:22.242 [main] INFO  com.estore.utility.Log - Index Page load
+22:04:24.819 [main] INFO  com.estore.utility.Log - Entered product name: t-shirt
+22:04:24.820 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+22:04:27.640 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+22:04:27.833 [main] INFO  com.estore.utility.Log - Entered quantity: 2
+22:04:28.027 [main] INFO  com.estore.utility.Log - Selected size: M
+22:04:28.176 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+22:04:31.954 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+22:04:32.059 [main] INFO  com.estore.utility.Log - totalExpectedPrice validated successfully
+22:04:32.059 [main] INFO  com.estore.utility.Log - *********************************Ended totalPriceTest******************************************
+22:04:45.014 [main] INFO  com.estore.utility.Log - ********************************Started addToCartTest*****************************************
+22:04:45.014 [main] INFO  com.estore.utility.Log - Index Page load
+22:04:49.167 [main] INFO  com.estore.utility.Log - Entered product name: t-shirt
+22:04:49.168 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+22:04:51.887 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+22:04:52.066 [main] INFO  com.estore.utility.Log - Entered quantity: 2
+22:04:52.250 [main] INFO  com.estore.utility.Log - Selected size: M
+22:04:52.401 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+22:04:54.056 [main] INFO  com.estore.utility.Log - Element displayed
+22:04:54.057 [main] INFO  com.estore.utility.Log - addToCartMessage validated successfully
+22:04:54.057 [main] INFO  com.estore.utility.Log - *********************************Ended addToCartTest******************************************

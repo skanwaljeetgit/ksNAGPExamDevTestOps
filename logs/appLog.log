@@ -1,0 +1,264 @@
+21:06:46.071 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+21:06:46.117 [main] INFO  com.estore.utility.Log - Index Page load
+21:06:52.335 [main] INFO  com.estore.utility.Log - Click on SignIn
+21:07:02.376 [main] INFO  com.estore.utility.Log - Element not found
+21:07:02.376 [main] ERROR com.estore.utility.Log - *********************************no such element: Unable to locate element: {"method":"css selector","selector":"#email"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'IN-9H42M63', ip: '192.168.29.63', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\KANWAL~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58567}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ef0c2c32379d49eb666280801aa0a6f2
+*** Element info: {Using=id, value=email} Failed******************************************
+21:07:02.382 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: loginTest no_such_element:_Unable_to_locate_element:_{"method":"css_selector","selector":"#email"}
+__(Session_info:_chrome=103.0.5060.114)
+For_documentation_on_this_error,_please_visit:_https://www.seleniumhq.org/exceptions/no_such_element.html
+Build_info:_version:_'3.141.59',_revision:_'e82be7d358',_time:_'2018-11-14T08:17:03'
+System_info:_host:_'IN-9H42M63',_ip:_'192.168.29.63',_os.name:_'Windows_11',_os.arch:_'amd64',_os.version:_'10.0',_java.version:_'11.0.15.1'
+Driver_info:_org.openqa.selenium.chrome.ChromeDriver
+Capabilities_{acceptInsecureCerts:_false,_browserName:_chrome,_browserVersion:_103.0.5060.114,_chrome:_{chromedriverVersion:_103.0.5060.53_(a1711811edd7...,_userDataDir:_C:\Users\KANWAL~1\AppData\L...},_goog:chromeOptions:_{debuggerAddress:_localhost:58567},_javascriptEnabled:_true,_networkConnectionEnabled:_false,_pageLoadStrategy:_normal,_platform:_WINDOWS,_platformName:_WINDOWS,_proxy:_Proxy(),_setWindowRect:_true,_strictFileInteractability:_false,_timeouts:_{implicit:_0,_pageLoad:_300000,_script:_30000},_unhandledPromptBehavior:_dismiss_and_notify,_webauthn:extension:credBlob:_true,_webauthn:extension:largeBlob:_true,_webauthn:virtualAuthenticators:_true}
+Session_ID:_ef0c2c32379d49eb666280801aa0a6f2
+***_Element_info:_{Using=id,_value=email} Failed******************************************
+21:15:56.841 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+21:15:56.862 [main] INFO  com.estore.utility.Log - Index Page load
+21:16:05.697 [main] INFO  com.estore.utility.Log - Click on SignIn
+21:16:17.398 [main] INFO  com.estore.utility.Log - Entered Email address: test12312312312@gmail.comand password: ABC123 for login
+21:16:17.416 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: loginTest expectedURL_Not_Found did not expect [http://automationpractice.com/index.php?controller=my-account] but found [http://automationpractice.com/index.php?controller=my-account] Failed******************************************
+21:16:17.755 [main] ERROR com.estore.utility.Log - *********************************Cannot create a file when that file already exists Failed******************************************
+21:22:00.227 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+21:22:00.261 [main] INFO  com.estore.utility.Log - Index Page load
+21:22:03.659 [main] INFO  com.estore.utility.Log - Click on SignIn
+21:22:07.605 [main] INFO  com.estore.utility.Log - Entered Email address: test12312312312@gmail.comand password: ABC123 for login
+21:22:07.621 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: loginTest expectedURL_Not_Found did not expect [http://automationpractice.com/index.php?controller=my-account] but found [http://automationpractice.com/index.php?controller=my-account] Failed******************************************
+21:22:07.999 [main] ERROR com.estore.utility.Log - *********************************Cannot create a file when that file already exists Failed******************************************
+21:24:48.297 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+21:24:48.318 [main] INFO  com.estore.utility.Log - Index Page load
+21:24:54.627 [main] INFO  com.estore.utility.Log - Click on SignIn
+21:24:58.199 [main] INFO  com.estore.utility.Log - Entered Email address: test12312312312@gmail.comand password: ABC123 for login
+21:24:58.213 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: loginTest expectedURL_Not_Found did not expect [http://automationpractice.com/index.php?controller=my-account] but found [http://automationpractice.com/index.php?controller=my-account] Failed******************************************
+21:24:58.538 [main] ERROR com.estore.utility.Log - *********************************Cannot create a file when that file already exists Failed******************************************
+21:28:18.459 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+21:28:18.491 [main] INFO  com.estore.utility.Log - Index Page load
+21:28:34.522 [main] INFO  com.estore.utility.Log - Click on SignIn
+21:28:41.885 [main] INFO  com.estore.utility.Log - Entered Email address: test12312312312@gmail.comand password: ABC123 for login
+21:28:41.908 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: loginTest expectedURL_Not_Found did not expect [http://automationpractice.com/index.php?controller=my-account] but found [http://automationpractice.com/index.php?controller=my-account] Failed******************************************
+21:30:32.943 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+21:30:32.981 [main] INFO  com.estore.utility.Log - Index Page load
+21:30:44.130 [main] INFO  com.estore.utility.Log - Click on SignIn
+21:30:58.152 [main] INFO  com.estore.utility.Log - Entered Email address: test12312312312@gmail.comand password: ABC123 for login
+21:30:58.172 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: loginTest expectedURL_Not_Found did not expect [http://automationpractice.com/index.php?controller=my-account] but found [http://automationpractice.com/index.php?controller=my-account] Failed******************************************
+21:30:58.682 [main] ERROR com.estore.utility.Log - *********************************Cannot create a file when that file already exists Failed******************************************
+21:35:07.050 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+21:35:07.083 [main] INFO  com.estore.utility.Log - Index Page load
+21:35:17.463 [main] INFO  com.estore.utility.Log - Click on SignIn
+21:35:36.355 [main] INFO  com.estore.utility.Log - Entered Email address: test12312312312@gmail.comand password: ABC123 for login
+21:35:36.449 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: loginTest expectedURL_Not_Found did not expect [http://automationpractice.com/index.php?controller=my-account] but found [http://automationpractice.com/index.php?controller=my-account] Failed******************************************
+21:35:38.234 [main] ERROR com.estore.utility.Log - *********************************Cannot create a file when that file already exists Failed******************************************
+21:37:33.979 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+21:37:34.020 [main] INFO  com.estore.utility.Log - Index Page load
+21:37:51.488 [main] INFO  com.estore.utility.Log - Click on SignIn
+21:38:01.571 [main] INFO  com.estore.utility.Log - Element not found
+21:38:01.571 [main] ERROR com.estore.utility.Log - *********************************no such element: Unable to locate element: {"method":"css selector","selector":"#email1"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'IN-9H42M63', ip: '192.168.29.63', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\KANWAL~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57287}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e1731517f92c84bf88fce4eef436c4a8
+*** Element info: {Using=id, value=email1} Failed******************************************
+21:38:01.577 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: loginTest no_such_element:_Unable_to_locate_element:_{"method":"css_selector","selector":"#email1"}
+__(Session_info:_chrome=103.0.5060.114)
+For_documentation_on_this_error,_please_visit:_https://www.seleniumhq.org/exceptions/no_such_element.html
+Build_info:_version:_'3.141.59',_revision:_'e82be7d358',_time:_'2018-11-14T08:17:03'
+System_info:_host:_'IN-9H42M63',_ip:_'192.168.29.63',_os.name:_'Windows_11',_os.arch:_'amd64',_os.version:_'10.0',_java.version:_'11.0.15.1'
+Driver_info:_org.openqa.selenium.chrome.ChromeDriver
+Capabilities_{acceptInsecureCerts:_false,_browserName:_chrome,_browserVersion:_103.0.5060.114,_chrome:_{chromedriverVersion:_103.0.5060.53_(a1711811edd7...,_userDataDir:_C:\Users\KANWAL~1\AppData\L...},_goog:chromeOptions:_{debuggerAddress:_localhost:57287},_javascriptEnabled:_true,_networkConnectionEnabled:_false,_pageLoadStrategy:_normal,_platform:_WINDOWS,_platformName:_WINDOWS,_proxy:_Proxy(),_setWindowRect:_true,_strictFileInteractability:_false,_timeouts:_{implicit:_0,_pageLoad:_300000,_script:_30000},_unhandledPromptBehavior:_dismiss_and_notify,_webauthn:extension:credBlob:_true,_webauthn:extension:largeBlob:_true,_webauthn:virtualAuthenticators:_true}
+Session_ID:_e1731517f92c84bf88fce4eef436c4a8
+***_Element_info:_{Using=id,_value=email1} Failed******************************************
+21:38:01.875 [main] ERROR com.estore.utility.Log - *********************************Cannot create a file when that file already exists Failed******************************************
+21:40:14.522 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+21:40:14.555 [main] INFO  com.estore.utility.Log - Index Page load
+21:40:34.715 [main] INFO  com.estore.utility.Log - Element not found
+21:40:34.715 [main] ERROR com.estore.utility.Log - *********************************Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //a[@class = 'login']' (tried for 10 second(s) with 500 milliseconds interval) Failed******************************************
+21:40:34.720 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: loginTest Expected_condition_failed:_waiting_for_visibility_of_Proxy_element_for:_DefaultElementLocator_'By.xpath:_//a[@class_=_'login']'_(tried_for_10_second(s)_with_500_milliseconds_interval) Failed******************************************
+21:44:53.745 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+21:44:53.774 [main] INFO  com.estore.utility.Log - Index Page load
+21:45:05.289 [main] INFO  com.estore.utility.Log - Click on SignIn
+21:45:15.332 [main] INFO  com.estore.utility.Log - Element not found
+21:45:15.333 [main] ERROR com.estore.utility.Log - *********************************no such element: Unable to locate element: {"method":"css selector","selector":"#email1"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'IN-9H42M63', ip: '192.168.29.63', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\KANWAL~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57529}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8b72c687e0036bc6358837516b6ce744
+*** Element info: {Using=id, value=email1} Failed******************************************
+21:45:15.342 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: loginTest no_such_element:_Unable_to_locate_element:_{"method":"css_selector","selector":"#email1"}
+__(Session_info:_chrome=103.0.5060.114)
+For_documentation_on_this_error,_please_visit:_https://www.seleniumhq.org/exceptions/no_such_element.html
+Build_info:_version:_'3.141.59',_revision:_'e82be7d358',_time:_'2018-11-14T08:17:03'
+System_info:_host:_'IN-9H42M63',_ip:_'192.168.29.63',_os.name:_'Windows_11',_os.arch:_'amd64',_os.version:_'10.0',_java.version:_'11.0.15.1'
+Driver_info:_org.openqa.selenium.chrome.ChromeDriver
+Capabilities_{acceptInsecureCerts:_false,_browserName:_chrome,_browserVersion:_103.0.5060.114,_chrome:_{chromedriverVersion:_103.0.5060.53_(a1711811edd7...,_userDataDir:_C:\Users\KANWAL~1\AppData\L...},_goog:chromeOptions:_{debuggerAddress:_localhost:57529},_javascriptEnabled:_true,_networkConnectionEnabled:_false,_pageLoadStrategy:_normal,_platform:_WINDOWS,_platformName:_WINDOWS,_proxy:_Proxy(),_setWindowRect:_true,_strictFileInteractability:_false,_timeouts:_{implicit:_0,_pageLoad:_300000,_script:_30000},_unhandledPromptBehavior:_dismiss_and_notify,_webauthn:extension:credBlob:_true,_webauthn:extension:largeBlob:_true,_webauthn:virtualAuthenticators:_true}
+Session_ID:_8b72c687e0036bc6358837516b6ce744
+***_Element_info:_{Using=id,_value=email1} Failed******************************************
+21:45:15.769 [main] ERROR com.estore.utility.Log - *********************************Cannot create a file when that file already exists Failed******************************************
+22:29:39.055 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+22:29:39.082 [main] INFO  com.estore.utility.Log - Index Page load
+22:29:42.469 [main] INFO  com.estore.utility.Log - Element not found
+22:29:42.470 [main] ERROR com.estore.utility.Log - *********************************unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'IN-9H42M63', ip: '192.168.29.63', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\KANWAL~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61131}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 37a913f5d7f535d1307562db1b2774ea Failed******************************************
+22:29:42.475 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: loginTest unknown_error:_unexpected_command_response
+__(Session_info:_chrome=103.0.5060.114)
+Build_info:_version:_'3.141.59',_revision:_'e82be7d358',_time:_'2018-11-14T08:17:03'
+System_info:_host:_'IN-9H42M63',_ip:_'192.168.29.63',_os.name:_'Windows_11',_os.arch:_'amd64',_os.version:_'10.0',_java.version:_'11.0.15.1'
+Driver_info:_org.openqa.selenium.chrome.ChromeDriver
+Capabilities_{acceptInsecureCerts:_false,_browserName:_chrome,_browserVersion:_103.0.5060.114,_chrome:_{chromedriverVersion:_103.0.5060.53_(a1711811edd7...,_userDataDir:_C:\Users\KANWAL~1\AppData\L...},_goog:chromeOptions:_{debuggerAddress:_localhost:61131},_javascriptEnabled:_true,_networkConnectionEnabled:_false,_pageLoadStrategy:_normal,_platform:_WINDOWS,_platformName:_WINDOWS,_proxy:_Proxy(),_setWindowRect:_true,_strictFileInteractability:_false,_timeouts:_{implicit:_0,_pageLoad:_300000,_script:_30000},_unhandledPromptBehavior:_dismiss_and_notify,_webauthn:extension:credBlob:_true,_webauthn:extension:largeBlob:_true,_webauthn:virtualAuthenticators:_true}
+Session_ID:_37a913f5d7f535d1307562db1b2774ea Failed******************************************
+22:29:44.468 [main] ERROR com.estore.utility.Log - *********************************The parameter is incorrect Failed******************************************
+22:32:30.749 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+22:32:30.773 [main] INFO  com.estore.utility.Log - Index Page load
+22:32:36.217 [main] INFO  com.estore.utility.Log - Click on SignIn
+22:32:46.239 [main] INFO  com.estore.utility.Log - Element not found
+22:32:46.240 [main] ERROR com.estore.utility.Log - *********************************no such element: Unable to locate element: {"method":"css selector","selector":"#email1"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'IN-9H42M63', ip: '192.168.29.63', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\KANWAL~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61273}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1f958248f8a9686c26c402aa2383ebc1
+*** Element info: {Using=id, value=email1} Failed******************************************
+22:32:46.245 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: loginTest no_such_element:_Unable_to_locate_element:_{"method":"css_selector","selector":"#email1"}
+__(Session_info:_chrome=103.0.5060.114)
+For_documentation_on_this_error,_please_visit:_https://www.seleniumhq.org/exceptions/no_such_element.html
+Build_info:_version:_'3.141.59',_revision:_'e82be7d358',_time:_'2018-11-14T08:17:03'
+System_info:_host:_'IN-9H42M63',_ip:_'192.168.29.63',_os.name:_'Windows_11',_os.arch:_'amd64',_os.version:_'10.0',_java.version:_'11.0.15.1'
+Driver_info:_org.openqa.selenium.chrome.ChromeDriver
+Capabilities_{acceptInsecureCerts:_false,_browserName:_chrome,_browserVersion:_103.0.5060.114,_chrome:_{chromedriverVersion:_103.0.5060.53_(a1711811edd7...,_userDataDir:_C:\Users\KANWAL~1\AppData\L...},_goog:chromeOptions:_{debuggerAddress:_localhost:61273},_javascriptEnabled:_true,_networkConnectionEnabled:_false,_pageLoadStrategy:_normal,_platform:_WINDOWS,_platformName:_WINDOWS,_proxy:_Proxy(),_setWindowRect:_true,_strictFileInteractability:_false,_timeouts:_{implicit:_0,_pageLoad:_300000,_script:_30000},_unhandledPromptBehavior:_dismiss_and_notify,_webauthn:extension:credBlob:_true,_webauthn:extension:largeBlob:_true,_webauthn:virtualAuthenticators:_true}
+Session_ID:_1f958248f8a9686c26c402aa2383ebc1
+***_Element_info:_{Using=id,_value=email1} Failed******************************************
+22:32:46.499 [main] ERROR com.estore.utility.Log - *********************************Cannot create a file when that file already exists Failed******************************************
+22:39:28.374 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+22:39:28.408 [main] INFO  com.estore.utility.Log - Index Page load
+22:39:31.713 [main] INFO  com.estore.utility.Log - Click on SignIn
+22:39:41.773 [main] INFO  com.estore.utility.Log - Element not found
+22:39:41.773 [main] ERROR com.estore.utility.Log - *********************************no such element: Unable to locate element: {"method":"css selector","selector":"#email1"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'IN-9H42M63', ip: '192.168.29.63', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\KANWAL~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61471}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 193172c32d34d097ca562a36efd33e2d
+*** Element info: {Using=id, value=email1} Failed******************************************
+22:39:41.778 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: loginTest no_such_element:_Unable_to_locate_element:_{"method":"css_selector","selector":"#email1"}
+__(Session_info:_chrome=103.0.5060.114)
+For_documentation_on_this_error,_please_visit:_https://www.seleniumhq.org/exceptions/no_such_element.html
+Build_info:_version:_'3.141.59',_revision:_'e82be7d358',_time:_'2018-11-14T08:17:03'
+System_info:_host:_'IN-9H42M63',_ip:_'192.168.29.63',_os.name:_'Windows_11',_os.arch:_'amd64',_os.version:_'10.0',_java.version:_'11.0.15.1'
+Driver_info:_org.openqa.selenium.chrome.ChromeDriver
+Capabilities_{acceptInsecureCerts:_false,_browserName:_chrome,_browserVersion:_103.0.5060.114,_chrome:_{chromedriverVersion:_103.0.5060.53_(a1711811edd7...,_userDataDir:_C:\Users\KANWAL~1\AppData\L...},_goog:chromeOptions:_{debuggerAddress:_localhost:61471},_javascriptEnabled:_true,_networkConnectionEnabled:_false,_pageLoadStrategy:_normal,_platform:_WINDOWS,_platformName:_WINDOWS,_proxy:_Proxy(),_setWindowRect:_true,_strictFileInteractability:_false,_timeouts:_{implicit:_0,_pageLoad:_300000,_script:_30000},_unhandledPromptBehavior:_dismiss_and_notify,_webauthn:extension:credBlob:_true,_webauthn:extension:largeBlob:_true,_webauthn:virtualAuthenticators:_true}
+Session_ID:_193172c32d34d097ca562a36efd33e2d
+***_Element_info:_{Using=id,_value=email1} Failed******************************************
+22:39:41.999 [main] ERROR com.estore.utility.Log - *********************************Cannot create a file when that file already exists Failed******************************************
+22:41:10.983 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+22:41:11.008 [main] INFO  com.estore.utility.Log - Index Page load
+22:41:19.114 [main] INFO  com.estore.utility.Log - Click on SignIn
+22:41:29.207 [main] INFO  com.estore.utility.Log - Element not found
+22:41:29.208 [main] ERROR com.estore.utility.Log - *********************************no such element: Unable to locate element: {"method":"css selector","selector":"#email1"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'IN-9H42M63', ip: '192.168.29.63', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\KANWAL~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61591}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 825b0136c3f2ca7d6c019be8fe63daf6
+*** Element info: {Using=id, value=email1} Failed******************************************
+22:41:29.221 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: loginTest no_such_element:_Unable_to_locate_element:_{"method":"css_selector","selector":"#email1"}
+__(Session_info:_chrome=103.0.5060.114)
+For_documentation_on_this_error,_please_visit:_https://www.seleniumhq.org/exceptions/no_such_element.html
+Build_info:_version:_'3.141.59',_revision:_'e82be7d358',_time:_'2018-11-14T08:17:03'
+System_info:_host:_'IN-9H42M63',_ip:_'192.168.29.63',_os.name:_'Windows_11',_os.arch:_'amd64',_os.version:_'10.0',_java.version:_'11.0.15.1'
+Driver_info:_org.openqa.selenium.chrome.ChromeDriver
+Capabilities_{acceptInsecureCerts:_false,_browserName:_chrome,_browserVersion:_103.0.5060.114,_chrome:_{chromedriverVersion:_103.0.5060.53_(a1711811edd7...,_userDataDir:_C:\Users\KANWAL~1\AppData\L...},_goog:chromeOptions:_{debuggerAddress:_localhost:61591},_javascriptEnabled:_true,_networkConnectionEnabled:_false,_pageLoadStrategy:_normal,_platform:_WINDOWS,_platformName:_WINDOWS,_proxy:_Proxy(),_setWindowRect:_true,_strictFileInteractability:_false,_timeouts:_{implicit:_0,_pageLoad:_300000,_script:_30000},_unhandledPromptBehavior:_dismiss_and_notify,_webauthn:extension:credBlob:_true,_webauthn:extension:largeBlob:_true,_webauthn:virtualAuthenticators:_true}
+Session_ID:_825b0136c3f2ca7d6c019be8fe63daf6
+***_Element_info:_{Using=id,_value=email1} Failed******************************************
+15:13:10.766 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: allItemsLabelTest 
+[public void com.estore.testcases.HomePageTest.allItemsLabelTest() throws java.lang.Exception] has no parameters defined but was found to be using a data provider (either explicitly specified or inherited from class level annotation).
+Data provider mismatch
+Method: allItemsLabelTest([])
+Arguments: [(java.lang.String) test12312312312@gmail.com,(java.lang.String) ABC123] Failed******************************************
+15:13:10.781 [main] ERROR com.estore.utility.Log - *********************************Cannot invoke "com.aventstack.extentreports.ExtentTest.log(com.aventstack.extentreports.Status, com.aventstack.extentreports.markuputils.Markup)" because "com.estore.utility.ListenerClass.test" is null Failed******************************************
+15:14:05.451 [main] INFO  com.estore.utility.Log - ********************************Started storeTitleTest*****************************************
+15:14:05.458 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: storeTitleTest Cannot invoke "com.estore.pageobjects.HomePage.getStoreTitle()" because "this.homePage" is null Failed******************************************
+15:15:00.092 [main] INFO  com.estore.utility.Log - ********************************Started urlTest*****************************************
+15:15:00.095 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: urlTest Cannot invoke "com.estore.pageobjects.HomePage.getCurrentUrl()" because "this.homePage" is null Failed******************************************
+15:18:51.029 [main] INFO  com.estore.utility.Log - ********************************Started allItemsLabelTest*****************************************
+15:18:51.251 [main] INFO  com.estore.utility.Log - Element displayed
+15:18:51.255 [main] INFO  com.estore.utility.Log - All Items Label validated successfully
+15:18:51.256 [main] INFO  com.estore.utility.Log - *********************************Ended allItemsLabelTest******************************************
+15:19:38.976 [main] INFO  com.estore.utility.Log - ********************************Started storeTitleTest*****************************************
+15:19:39.060 [main] INFO  com.estore.utility.Log - Store Title validated successfully
+15:19:39.060 [main] INFO  com.estore.utility.Log - *********************************Ended storeTitleTest******************************************
+15:20:25.672 [main] INFO  com.estore.utility.Log - ********************************Started urlTest*****************************************
+15:20:25.721 [main] INFO  com.estore.utility.Log - URL validated successfully
+15:20:25.721 [main] INFO  com.estore.utility.Log - *********************************Ended urlTest******************************************
+15:23:05.332 [main] INFO  com.estore.utility.Log - ********************************Started allItemsLabelTest*****************************************
+15:23:05.513 [main] INFO  com.estore.utility.Log - Element displayed
+15:23:05.517 [main] INFO  com.estore.utility.Log - All Items Label validated successfully
+15:23:05.517 [main] INFO  com.estore.utility.Log - *********************************Ended allItemsLabelTest******************************************
+15:23:14.658 [main] INFO  com.estore.utility.Log - ********************************Started storeTitleTest*****************************************
+15:23:14.731 [main] INFO  com.estore.utility.Log - Store Title validated successfully
+15:23:14.731 [main] INFO  com.estore.utility.Log - *********************************Ended storeTitleTest******************************************
+15:23:20.488 [main] INFO  com.estore.utility.Log - ********************************Started urlTest*****************************************
+15:23:20.621 [main] INFO  com.estore.utility.Log - URL validated successfully
+15:23:20.621 [main] INFO  com.estore.utility.Log - *********************************Ended urlTest******************************************
+15:26:29.047 [main] INFO  com.estore.utility.Log - ********************************Started allItemsLabelTest*****************************************
+15:26:29.200 [main] INFO  com.estore.utility.Log - Element displayed
+15:26:29.205 [main] INFO  com.estore.utility.Log - All Items Label validated successfully
+15:26:29.206 [main] INFO  com.estore.utility.Log - *********************************Ended allItemsLabelTest******************************************
+15:26:35.604 [main] INFO  com.estore.utility.Log - ********************************Started storeTitleTest*****************************************
+15:26:35.748 [main] INFO  com.estore.utility.Log - Store Title validated successfully
+15:26:35.749 [main] INFO  com.estore.utility.Log - *********************************Ended storeTitleTest******************************************
+15:26:40.924 [main] INFO  com.estore.utility.Log - ********************************Started urlTest*****************************************
+15:26:41.196 [main] INFO  com.estore.utility.Log - URL validated successfully
+15:26:41.197 [main] INFO  com.estore.utility.Log - *********************************Ended urlTest******************************************
+15:32:02.366 [main] INFO  com.estore.utility.Log - ********************************Started allItemsLabelTest*****************************************
+15:32:02.587 [main] INFO  com.estore.utility.Log - Element displayed
+15:32:02.590 [main] INFO  com.estore.utility.Log - All Items Label validated successfully
+15:32:02.590 [main] INFO  com.estore.utility.Log - *********************************Ended allItemsLabelTest******************************************
+15:32:09.599 [main] INFO  com.estore.utility.Log - ********************************Started storeTitleTest*****************************************
+15:32:09.656 [main] INFO  com.estore.utility.Log - Store Title validated successfully
+15:32:09.657 [main] INFO  com.estore.utility.Log - *********************************Ended storeTitleTest******************************************
+15:32:15.599 [main] INFO  com.estore.utility.Log - ********************************Started urlTest*****************************************
+15:32:15.960 [main] INFO  com.estore.utility.Log - URL validated successfully
+15:32:15.960 [main] INFO  com.estore.utility.Log - *********************************Ended urlTest******************************************
+15:32:57.077 [main] INFO  com.estore.utility.Log - ********************************Started allItemsLabelTest*****************************************
+15:32:57.374 [main] INFO  com.estore.utility.Log - Element displayed
+15:32:57.379 [main] INFO  com.estore.utility.Log - All Items Label validated successfully
+15:32:57.379 [main] INFO  com.estore.utility.Log - *********************************Ended allItemsLabelTest******************************************
+15:33:05.212 [main] INFO  com.estore.utility.Log - ********************************Started storeTitleTest*****************************************
+15:33:05.395 [main] INFO  com.estore.utility.Log - Store Title validated successfully
+15:33:05.396 [main] INFO  com.estore.utility.Log - *********************************Ended storeTitleTest******************************************
+15:33:11.774 [main] INFO  com.estore.utility.Log - ********************************Started urlTest*****************************************
+15:33:11.918 [main] INFO  com.estore.utility.Log - URL validated successfully
+15:33:11.918 [main] INFO  com.estore.utility.Log - *********************************Ended urlTest******************************************
+15:34:10.978 [main] INFO  com.estore.utility.Log - ********************************Started allItemsLabelTest*****************************************
+15:34:11.136 [main] INFO  com.estore.utility.Log - Element displayed
+15:34:11.140 [main] INFO  com.estore.utility.Log - All Items Label validated successfully
+15:34:11.140 [main] INFO  com.estore.utility.Log - *********************************Ended allItemsLabelTest******************************************
+15:34:16.672 [main] INFO  com.estore.utility.Log - ********************************Started storeTitleTest*****************************************
+15:34:16.832 [main] INFO  com.estore.utility.Log - Store Title validated successfully
+15:34:16.833 [main] INFO  com.estore.utility.Log - *********************************Ended storeTitleTest******************************************
+15:34:21.341 [main] INFO  com.estore.utility.Log - ********************************Started urlTest*****************************************
+15:34:21.478 [main] INFO  com.estore.utility.Log - URL validated successfully
+15:34:21.478 [main] INFO  com.estore.utility.Log - *********************************Ended urlTest******************************************

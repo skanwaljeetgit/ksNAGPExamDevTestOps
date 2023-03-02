@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-28T15:32:47 IST" name="All" finished-at="2023-02-28T15:33:12 IST" duration-ms="24310">
+    <groups>
+      <group name="Smoke">
+        <method signature="HomePageTest.allItemsLabelTest()[pri:0, instance:com.estore.testcases.HomePageTest@6c80d78a]" name="allItemsLabelTest" class="com.estore.testcases.HomePageTest"/>
+        <method signature="HomePageTest.storeTitleTest(java.lang.String)[pri:0, instance:com.estore.testcases.HomePageTest@6c80d78a]" name="storeTitleTest" class="com.estore.testcases.HomePageTest"/>
+        <method signature="HomePageTest.urlTest(java.lang.String)[pri:0, instance:com.estore.testcases.HomePageTest@6c80d78a]" name="urlTest" class="com.estore.testcases.HomePageTest"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2023-02-28T15:32:47 IST" name="ChromeTest" finished-at="2023-02-28T15:33:12 IST" duration-ms="24310">
+      <class name="com.estore.testcases.HomePageTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.estore.testcases.HomePageTest@6c80d78a]" started-at="2023-02-28T15:32:47 IST" name="beforeSuite" finished-at="2023-02-28T15:32:47 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.estore.testcases.HomePageTest@6c80d78a]" started-at="2023-02-28T15:32:48 IST" name="setup" finished-at="2023-02-28T15:32:55 IST" duration-ms="7797" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="allItemsLabelTest()[pri:0, instance:com.estore.testcases.HomePageTest@6c80d78a]" started-at="2023-02-28T15:32:55 IST" name="allItemsLabelTest" finished-at="2023-02-28T15:32:57 IST" duration-ms="1557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allItemsLabelTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.estore.testcases.HomePageTest@6c80d78a]" started-at="2023-02-28T15:32:57 IST" name="tearDown" finished-at="2023-02-28T15:32:58 IST" duration-ms="627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.estore.testcases.HomePageTest@6c80d78a]" started-at="2023-02-28T15:32:59 IST" name="setup" finished-at="2023-02-28T15:33:05 IST" duration-ms="5907" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="storeTitleTest(java.lang.String)[pri:0, instance:com.estore.testcases.HomePageTest@6c80d78a]" started-at="2023-02-28T15:33:05 IST" name="storeTitleTest" data-provider="getStoreTitle" finished-at="2023-02-28T15:33:05 IST" duration-ms="186" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storeTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.estore.testcases.HomePageTest@6c80d78a]" started-at="2023-02-28T15:33:05 IST" name="tearDown" finished-at="2023-02-28T15:33:05 IST" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.estore.testcases.HomePageTest@6c80d78a]" started-at="2023-02-28T15:33:05 IST" name="setup" finished-at="2023-02-28T15:33:11 IST" duration-ms="5826" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="urlTest(java.lang.String)[pri:0, instance:com.estore.testcases.HomePageTest@6c80d78a]" started-at="2023-02-28T15:33:11 IST" name="urlTest" data-provider="getUrl" finished-at="2023-02-28T15:33:11 IST" duration-ms="146" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.amazon.in/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.estore.testcases.HomePageTest@6c80d78a]" started-at="2023-02-28T15:33:11 IST" name="tearDown" finished-at="2023-02-28T15:33:12 IST" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.estore.testcases.HomePageTest@6c80d78a]" started-at="2023-02-28T15:33:12 IST" name="afterSuite" finished-at="2023-02-28T15:33:12 IST" duration-ms="649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.estore.testcases.HomePageTest -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- All -->
+</testng-results>

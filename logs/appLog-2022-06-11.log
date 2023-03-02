@@ -1,0 +1,322 @@
+00:34:44.068 [main] INFO  com.estore.utility.Log - ********************************Started endToEndTest*****************************************
+00:34:44.108 [main] INFO  com.estore.utility.Log - Index Page loaded
+00:34:49.572 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+00:34:59.292 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+00:34:59.404 [main] INFO  com.estore.utility.Log - Entered quantity
+00:34:59.555 [main] INFO  com.estore.utility.Log - Selected size
+00:34:59.660 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+00:35:12.143 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+00:35:24.995 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Order page
+00:35:33.428 [main] INFO  com.estore.utility.Log - User logged in
+00:35:37.300 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Shipping Page
+00:35:37.362 [main] INFO  com.estore.utility.Log - Checked Terms checkbox on Shipping Page
+00:35:49.710 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Payment Page
+00:36:00.548 [main] INFO  com.estore.utility.Log - Clicked on Payment Method on Order Summary Page
+00:36:07.799 [main] INFO  com.estore.utility.Log - Clicked on Confirm Order button on Order Summary Page
+00:36:07.825 [main] INFO  com.estore.utility.Log - confirmOrderMessage validated successfully
+00:36:07.826 [main] INFO  com.estore.utility.Log - *********************************Ended endToEndTest******************************************
+00:49:45.182 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+00:49:45.209 [main] INFO  com.estore.utility.Log - Index Page loaded
+00:49:53.394 [main] INFO  com.estore.utility.Log - Click on SignIn
+00:50:00.899 [main] INFO  com.estore.utility.Log - Entered Email address and password for login
+00:50:00.905 [main] INFO  com.estore.utility.Log - Log in validated successfully
+00:50:00.905 [main] INFO  com.estore.utility.Log - *********************************Ended loginTest******************************************
+00:50:16.263 [main] INFO  com.estore.utility.Log - ********************************Started endToEndTest*****************************************
+00:50:16.263 [main] INFO  com.estore.utility.Log - Index Page loaded
+00:50:24.818 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+00:50:36.936 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+00:50:37.068 [main] INFO  com.estore.utility.Log - Entered quantity
+00:50:37.212 [main] INFO  com.estore.utility.Log - Selected size
+00:50:37.338 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+00:50:52.934 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+00:51:05.211 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Order page
+00:51:15.024 [main] INFO  com.estore.utility.Log - User logged in
+00:51:20.004 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Shipping Page
+00:51:20.061 [main] INFO  com.estore.utility.Log - Checked Terms checkbox on Shipping Page
+00:51:25.924 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Payment Page
+00:51:29.990 [main] INFO  com.estore.utility.Log - Clicked on Payment Method on Order Summary Page
+00:51:35.545 [main] INFO  com.estore.utility.Log - Clicked on Confirm Order button on Order Summary Page
+00:51:35.571 [main] INFO  com.estore.utility.Log - confirmOrderMessage validated successfully
+00:51:35.571 [main] INFO  com.estore.utility.Log - *********************************Ended endToEndTest******************************************
+00:51:48.396 [main] INFO  com.estore.utility.Log - ********************************Started accountCreatePageTest*****************************************
+00:51:48.397 [main] INFO  com.estore.utility.Log - Index Page loaded
+00:51:51.141 [main] INFO  com.estore.utility.Log - Clicked on Sign in button
+00:51:51.410 [main] INFO  com.estore.utility.Log - Entered Email address for account creation
+00:51:53.599 [main] INFO  com.estore.utility.Log - Element displayed
+00:51:53.599 [main] INFO  com.estore.utility.Log - createAccountFormHeader validated successfully
+00:51:53.599 [main] INFO  com.estore.utility.Log - *********************************Ended accountCreatePageTest******************************************
+00:52:06.780 [main] INFO  com.estore.utility.Log - ********************************Started storeTitleTest*****************************************
+00:52:06.780 [main] INFO  com.estore.utility.Log - Index Page loaded
+00:52:06.785 [main] INFO  com.estore.utility.Log - Store title validated successfully
+00:52:06.785 [main] INFO  com.estore.utility.Log - *********************************Ended store_Title_Test******************************************
+00:52:17.652 [main] INFO  com.estore.utility.Log - ********************************Started productAvailabilityTest*****************************************
+00:52:17.653 [main] INFO  com.estore.utility.Log - Index Page loaded
+00:52:29.420 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+00:52:29.490 [main] INFO  com.estore.utility.Log - Element displayed
+00:52:29.490 [main] INFO  com.estore.utility.Log - productAvailability validated successfully
+00:52:29.490 [main] INFO  com.estore.utility.Log - *********************************Ended productAvailabilityTest******************************************
+00:52:43.729 [main] INFO  com.estore.utility.Log - ********************************Started orderHistoryDetailLabelTest*****************************************
+00:52:43.729 [main] INFO  com.estore.utility.Log - Index Page loaded
+00:52:54.615 [main] INFO  com.estore.utility.Log - Clicked on Sign in button
+00:53:04.830 [main] INFO  com.estore.utility.Log - Entered Email address and password for login
+00:53:04.916 [main] INFO  com.estore.utility.Log - Element displayed
+00:53:04.916 [main] INFO  com.estore.utility.Log - orderHistory label validated successfully
+00:53:04.917 [main] INFO  com.estore.utility.Log - *********************************Ended orderHistoryDetailLabelTest******************************************
+00:53:18.721 [main] INFO  com.estore.utility.Log - ********************************Started totalPriceTest*****************************************
+00:53:18.721 [main] INFO  com.estore.utility.Log - Index Page loaded
+00:53:31.174 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+00:53:40.441 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+00:53:40.568 [main] INFO  com.estore.utility.Log - Entered quantity
+00:53:40.821 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+00:53:47.643 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+00:53:47.707 [main] INFO  com.estore.utility.Log - totalExpectedPrice validated successfully
+00:53:47.707 [main] INFO  com.estore.utility.Log - *********************************Ended totalPriceTest******************************************
+00:53:57.838 [main] INFO  com.estore.utility.Log - ********************************Started addToCartTest*****************************************
+00:53:57.839 [main] INFO  com.estore.utility.Log - Index Page loaded
+00:54:00.956 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+00:54:05.353 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+00:54:05.464 [main] INFO  com.estore.utility.Log - Entered quantity
+00:54:05.675 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+00:54:10.041 [main] INFO  com.estore.utility.Log - Element displayed
+00:54:10.041 [main] INFO  com.estore.utility.Log - addToCartMessage validated successfully
+00:54:10.041 [main] INFO  com.estore.utility.Log - *********************************Ended addToCartTest******************************************
+00:55:15.658 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+00:55:15.681 [main] INFO  com.estore.utility.Log - Index Page loaded
+00:55:18.296 [main] INFO  com.estore.utility.Log - Click on SignIn
+00:55:21.612 [main] INFO  com.estore.utility.Log - Entered Email address and password for login
+00:55:21.627 [main] INFO  com.estore.utility.Log - Log in validated successfully
+00:55:21.627 [main] INFO  com.estore.utility.Log - *********************************Ended loginTest******************************************
+00:58:10.447 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+00:58:10.477 [main] INFO  com.estore.utility.Log - Index Page loaded
+00:58:15.542 [main] INFO  com.estore.utility.Log - Click on SignIn
+00:58:19.077 [main] INFO  com.estore.utility.Log - Entered Email address and password for login
+00:58:19.084 [main] INFO  com.estore.utility.Log - Log in validated successfully
+00:58:19.085 [main] INFO  com.estore.utility.Log - *********************************Ended loginTest******************************************
+00:58:30.613 [main] INFO  com.estore.utility.Log - ********************************Started endToEndTest*****************************************
+00:58:30.614 [main] INFO  com.estore.utility.Log - Index Page loaded
+00:58:34.067 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+00:58:37.333 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+00:58:37.565 [main] INFO  com.estore.utility.Log - Entered quantity
+00:58:37.848 [main] INFO  com.estore.utility.Log - Selected size
+00:58:38.024 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+00:58:49.908 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+00:59:02.188 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Order page
+12:13:37.792 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+12:13:37.811 [main] INFO  com.estore.utility.Log - Index Page loaded
+12:13:57.907 [main] INFO  com.estore.utility.Log - Element not found
+12:13:57.907 [main] ERROR com.estore.utility.Log - *********************************Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //a[@class = 'login']' (tried for 10 second(s) with 500 milliseconds interval) Failed******************************************
+12:13:57.913 [main] ERROR com.estore.utility.Log - *********************************Test Case Failed: loginTest Expected_condition_failed:_waiting_for_visibility_of_Proxy_element_for:_DefaultElementLocator_'By.xpath:_//a[@class_=_'login']'_(tried_for_10_second(s)_with_500_milliseconds_interval) Failed******************************************
+12:14:01.408 [main] INFO  com.estore.utility.Log - ********************************Started endToEndTest*****************************************
+12:14:01.409 [main] INFO  com.estore.utility.Log - Index Page loaded
+12:25:58.774 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+12:25:58.792 [main] INFO  com.estore.utility.Log - Index Page load
+12:26:04.688 [main] INFO  com.estore.utility.Log - Click on SignIn
+12:26:08.926 [main] INFO  com.estore.utility.Log - Entered Email address and password for login
+12:26:08.936 [main] INFO  com.estore.utility.Log - Log in validated successfully
+12:26:08.937 [main] INFO  com.estore.utility.Log - *********************************Ended loginTest******************************************
+12:26:22.718 [main] INFO  com.estore.utility.Log - ********************************Started endToEndTest*****************************************
+12:26:22.718 [main] INFO  com.estore.utility.Log - Index Page load
+12:26:22.927 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+12:26:35.126 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+12:26:35.235 [main] INFO  com.estore.utility.Log - Entered quantity
+12:26:35.355 [main] INFO  com.estore.utility.Log - Selected size
+12:26:35.425 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+12:26:42.422 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+12:26:49.401 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Order page
+12:26:54.731 [main] INFO  com.estore.utility.Log - User logged in
+12:26:57.104 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Shipping Page
+12:26:57.171 [main] INFO  com.estore.utility.Log - Checked Terms checkbox on Shipping Page
+12:27:00.894 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Payment Page
+12:27:04.099 [main] INFO  com.estore.utility.Log - Clicked on Payment Method on Order Summary Page
+12:27:08.241 [main] INFO  com.estore.utility.Log - Clicked on Confirm Order button on Order Summary Page
+12:27:08.267 [main] INFO  com.estore.utility.Log - confirmOrderMessage validated successfully
+12:27:08.267 [main] INFO  com.estore.utility.Log - *********************************Ended endToEndTest******************************************
+12:27:23.087 [main] INFO  com.estore.utility.Log - ********************************Started accountCreatePageTest*****************************************
+12:27:23.087 [main] INFO  com.estore.utility.Log - Index Page load
+12:27:28.547 [main] INFO  com.estore.utility.Log - Clicked on Sign in button
+12:27:28.782 [main] INFO  com.estore.utility.Log - Entered Email address for account creation
+12:27:31.777 [main] INFO  com.estore.utility.Log - Element displayed
+12:27:31.777 [main] INFO  com.estore.utility.Log - createAccountFormHeader validated successfully
+12:27:31.777 [main] INFO  com.estore.utility.Log - *********************************Ended accountCreatePageTest******************************************
+12:27:42.360 [main] INFO  com.estore.utility.Log - ********************************Started storeTitleTest*****************************************
+12:27:42.361 [main] INFO  com.estore.utility.Log - Index Page load
+12:27:42.386 [main] INFO  com.estore.utility.Log - Store title validated successfully
+12:27:42.387 [main] INFO  com.estore.utility.Log - *********************************Ended store_Title_Test******************************************
+12:27:51.053 [main] INFO  com.estore.utility.Log - ********************************Started productAvailabilityTest*****************************************
+12:27:51.054 [main] INFO  com.estore.utility.Log - Index Page load
+12:27:53.868 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+12:27:53.920 [main] INFO  com.estore.utility.Log - Element displayed
+12:27:53.920 [main] INFO  com.estore.utility.Log - productAvailability validated successfully
+12:27:53.920 [main] INFO  com.estore.utility.Log - *********************************Ended productAvailabilityTest******************************************
+12:28:02.421 [main] INFO  com.estore.utility.Log - ********************************Started orderHistoryDetailLabelTest*****************************************
+12:28:02.422 [main] INFO  com.estore.utility.Log - Index Page load
+12:28:04.667 [main] INFO  com.estore.utility.Log - Clicked on Sign in button
+12:28:06.976 [main] INFO  com.estore.utility.Log - Entered Email address and password for login
+12:28:07.025 [main] INFO  com.estore.utility.Log - Element displayed
+12:28:07.026 [main] INFO  com.estore.utility.Log - orderHistory label validated successfully
+12:28:07.026 [main] INFO  com.estore.utility.Log - *********************************Ended orderHistoryDetailLabelTest******************************************
+12:28:15.333 [main] INFO  com.estore.utility.Log - ********************************Started totalPriceTest*****************************************
+12:28:15.334 [main] INFO  com.estore.utility.Log - Index Page load
+12:28:17.262 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+12:28:23.050 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+12:28:23.162 [main] INFO  com.estore.utility.Log - Entered quantity
+12:28:23.338 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+12:28:30.403 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+12:28:30.464 [main] INFO  com.estore.utility.Log - totalExpectedPrice validated successfully
+12:28:30.464 [main] INFO  com.estore.utility.Log - *********************************Ended totalPriceTest******************************************
+12:29:02.453 [main] INFO  com.estore.utility.Log - ********************************Started addToCartTest*****************************************
+12:29:02.453 [main] INFO  com.estore.utility.Log - Index Page load
+12:29:02.661 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+12:29:20.157 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+12:29:20.394 [main] INFO  com.estore.utility.Log - Entered quantity
+12:29:20.696 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+12:29:23.457 [main] INFO  com.estore.utility.Log - Element displayed
+12:29:23.458 [main] INFO  com.estore.utility.Log - addToCartMessage validated successfully
+12:29:23.458 [main] INFO  com.estore.utility.Log - *********************************Ended addToCartTest******************************************
+12:33:06.675 [main] INFO  com.estore.utility.Log - ********************************Started endToEndTest*****************************************
+12:33:06.705 [main] INFO  com.estore.utility.Log - Index Page load
+12:33:12.090 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+12:33:17.964 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+12:33:18.112 [main] INFO  com.estore.utility.Log - Entered quantity
+12:33:18.223 [main] INFO  com.estore.utility.Log - Selected size
+12:33:18.295 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+12:33:25.823 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+12:33:34.068 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Order page
+12:33:40.103 [main] INFO  com.estore.utility.Log - User logged in
+12:33:42.615 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Shipping Page
+12:33:42.684 [main] INFO  com.estore.utility.Log - Checked Terms checkbox on Shipping Page
+12:33:47.045 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Payment Page
+12:33:50.558 [main] INFO  com.estore.utility.Log - Clicked on Payment Method on Order Summary Page
+12:33:54.531 [main] INFO  com.estore.utility.Log - Clicked on Confirm Order button on Order Summary Page
+12:33:54.561 [main] INFO  com.estore.utility.Log - confirmOrderMessage validated successfully
+12:33:54.561 [main] INFO  com.estore.utility.Log - *********************************Ended endToEndTest******************************************
+12:39:23.408 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+12:39:23.434 [main] INFO  com.estore.utility.Log - Index Page load
+12:39:27.991 [main] INFO  com.estore.utility.Log - Click on SignIn
+12:39:31.614 [main] INFO  com.estore.utility.Log - Entered Email address and password for login
+12:39:31.622 [main] INFO  com.estore.utility.Log - Log in validated successfully
+12:39:31.622 [main] INFO  com.estore.utility.Log - *********************************Ended loginTest******************************************
+12:39:42.938 [main] INFO  com.estore.utility.Log - ********************************Started endToEndTest*****************************************
+12:39:42.939 [main] INFO  com.estore.utility.Log - Index Page load
+12:39:45.963 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+12:39:50.251 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+12:39:50.419 [main] INFO  com.estore.utility.Log - Entered quantity
+12:39:50.586 [main] INFO  com.estore.utility.Log - Selected size
+12:39:50.690 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+12:39:55.129 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+12:39:58.072 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Order page
+12:40:03.166 [main] INFO  com.estore.utility.Log - User logged in
+12:40:05.798 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Shipping Page
+12:40:05.853 [main] INFO  com.estore.utility.Log - Checked Terms checkbox on Shipping Page
+12:40:07.495 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Payment Page
+12:40:08.830 [main] INFO  com.estore.utility.Log - Clicked on Payment Method on Order Summary Page
+12:40:11.337 [main] INFO  com.estore.utility.Log - Clicked on Confirm Order button on Order Summary Page
+12:40:11.368 [main] INFO  com.estore.utility.Log - confirmOrderMessage validated successfully
+12:40:11.371 [main] INFO  com.estore.utility.Log - *********************************Ended endToEndTest******************************************
+12:40:21.708 [main] INFO  com.estore.utility.Log - ********************************Started accountCreatePageTest*****************************************
+12:40:21.708 [main] INFO  com.estore.utility.Log - Index Page load
+12:40:25.340 [main] INFO  com.estore.utility.Log - Clicked on Sign in button
+12:40:25.698 [main] INFO  com.estore.utility.Log - Entered Email address for account creation
+12:40:27.393 [main] INFO  com.estore.utility.Log - Element displayed
+12:40:27.393 [main] INFO  com.estore.utility.Log - createAccountFormHeader validated successfully
+12:40:27.394 [main] INFO  com.estore.utility.Log - *********************************Ended accountCreatePageTest******************************************
+12:40:36.356 [main] INFO  com.estore.utility.Log - ********************************Started storeTitleTest*****************************************
+12:40:36.357 [main] INFO  com.estore.utility.Log - Index Page load
+12:40:36.366 [main] INFO  com.estore.utility.Log - Store title validated successfully
+12:40:36.366 [main] INFO  com.estore.utility.Log - *********************************Ended store_Title_Test******************************************
+12:40:45.032 [main] INFO  com.estore.utility.Log - ********************************Started productAvailabilityTest*****************************************
+12:40:45.032 [main] INFO  com.estore.utility.Log - Index Page load
+12:40:47.629 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+12:40:47.716 [main] INFO  com.estore.utility.Log - Element displayed
+12:40:47.716 [main] INFO  com.estore.utility.Log - productAvailability validated successfully
+12:40:47.716 [main] INFO  com.estore.utility.Log - *********************************Ended productAvailabilityTest******************************************
+12:40:56.639 [main] INFO  com.estore.utility.Log - ********************************Started orderHistoryDetailLabelTest*****************************************
+12:40:56.639 [main] INFO  com.estore.utility.Log - Index Page load
+12:40:59.085 [main] INFO  com.estore.utility.Log - Clicked on Sign in button
+12:41:03.011 [main] INFO  com.estore.utility.Log - Entered Email address and password for login
+12:41:03.069 [main] INFO  com.estore.utility.Log - Element displayed
+12:41:03.069 [main] INFO  com.estore.utility.Log - orderHistory label validated successfully
+12:41:03.069 [main] INFO  com.estore.utility.Log - *********************************Ended orderHistoryDetailLabelTest******************************************
+12:41:11.966 [main] INFO  com.estore.utility.Log - ********************************Started totalPriceTest*****************************************
+12:41:11.966 [main] INFO  com.estore.utility.Log - Index Page load
+12:41:14.197 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+12:41:18.756 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+12:41:18.916 [main] INFO  com.estore.utility.Log - Entered quantity
+12:41:19.150 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+12:41:24.971 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+12:41:25.034 [main] INFO  com.estore.utility.Log - totalExpectedPrice validated successfully
+12:41:25.034 [main] INFO  com.estore.utility.Log - *********************************Ended totalPriceTest******************************************
+12:41:35.716 [main] INFO  com.estore.utility.Log - ********************************Started addToCartTest*****************************************
+12:41:35.717 [main] INFO  com.estore.utility.Log - Index Page load
+12:41:41.994 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+12:41:45.193 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+12:41:45.342 [main] INFO  com.estore.utility.Log - Entered quantity
+12:41:45.606 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+12:41:47.870 [main] INFO  com.estore.utility.Log - Element displayed
+12:41:47.870 [main] INFO  com.estore.utility.Log - addToCartMessage validated successfully
+12:41:47.871 [main] INFO  com.estore.utility.Log - *********************************Ended addToCartTest******************************************
+12:42:32.212 [main] INFO  com.estore.utility.Log - ********************************Started loginTest*****************************************
+12:42:32.236 [main] INFO  com.estore.utility.Log - Index Page load
+12:42:36.564 [main] INFO  com.estore.utility.Log - Click on SignIn
+12:42:41.837 [main] INFO  com.estore.utility.Log - Entered Email address and password for login
+12:42:41.844 [main] INFO  com.estore.utility.Log - Log in validated successfully
+12:42:41.844 [main] INFO  com.estore.utility.Log - *********************************Ended loginTest******************************************
+12:42:51.245 [main] INFO  com.estore.utility.Log - ********************************Started endToEndTest*****************************************
+12:42:51.246 [main] INFO  com.estore.utility.Log - Index Page load
+12:42:54.878 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+12:42:58.034 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+12:42:58.130 [main] INFO  com.estore.utility.Log - Entered quantity
+12:42:58.236 [main] INFO  com.estore.utility.Log - Selected size
+12:42:58.314 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+12:43:02.037 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+12:43:04.987 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Order page
+12:43:07.647 [main] INFO  com.estore.utility.Log - User logged in
+12:43:09.612 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Shipping Page
+12:43:09.674 [main] INFO  com.estore.utility.Log - Checked Terms checkbox on Shipping Page
+12:43:12.590 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Payment Page
+12:43:13.834 [main] INFO  com.estore.utility.Log - Clicked on Payment Method on Order Summary Page
+12:43:18.687 [main] INFO  com.estore.utility.Log - Clicked on Confirm Order button on Order Summary Page
+12:43:18.712 [main] INFO  com.estore.utility.Log - confirmOrderMessage validated successfully
+12:43:18.712 [main] INFO  com.estore.utility.Log - *********************************Ended endToEndTest******************************************
+12:43:43.336 [main] INFO  com.estore.utility.Log - ********************************Started accountCreatePageTest*****************************************
+12:43:43.337 [main] INFO  com.estore.utility.Log - Index Page load
+12:43:49.126 [main] INFO  com.estore.utility.Log - Clicked on Sign in button
+12:43:49.338 [main] INFO  com.estore.utility.Log - Entered Email address for account creation
+12:43:51.452 [main] INFO  com.estore.utility.Log - Element displayed
+12:43:51.452 [main] INFO  com.estore.utility.Log - createAccountFormHeader validated successfully
+12:43:51.453 [main] INFO  com.estore.utility.Log - *********************************Ended accountCreatePageTest******************************************
+12:44:04.801 [main] INFO  com.estore.utility.Log - ********************************Started storeTitleTest*****************************************
+12:44:04.801 [main] INFO  com.estore.utility.Log - Index Page load
+12:44:04.808 [main] INFO  com.estore.utility.Log - Store title validated successfully
+12:44:04.809 [main] INFO  com.estore.utility.Log - *********************************Ended store_Title_Test******************************************
+12:44:16.097 [main] INFO  com.estore.utility.Log - ********************************Started productAvailabilityTest*****************************************
+12:44:16.098 [main] INFO  com.estore.utility.Log - Index Page load
+12:44:20.262 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+12:44:20.327 [main] INFO  com.estore.utility.Log - Element displayed
+12:44:20.327 [main] INFO  com.estore.utility.Log - productAvailability validated successfully
+12:44:20.327 [main] INFO  com.estore.utility.Log - *********************************Ended productAvailabilityTest******************************************
+12:44:31.906 [main] INFO  com.estore.utility.Log - ********************************Started orderHistoryDetailLabelTest*****************************************
+12:44:31.907 [main] INFO  com.estore.utility.Log - Index Page load
+12:44:35.491 [main] INFO  com.estore.utility.Log - Clicked on Sign in button
+12:44:41.150 [main] INFO  com.estore.utility.Log - Entered Email address and password for login
+12:44:41.195 [main] INFO  com.estore.utility.Log - Element displayed
+12:44:41.195 [main] INFO  com.estore.utility.Log - orderHistory label validated successfully
+12:44:41.195 [main] INFO  com.estore.utility.Log - *********************************Ended orderHistoryDetailLabelTest******************************************
+12:44:50.688 [main] INFO  com.estore.utility.Log - ********************************Started totalPriceTest*****************************************
+12:44:50.688 [main] INFO  com.estore.utility.Log - Index Page load
+12:44:54.800 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+12:45:02.989 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+12:45:03.144 [main] INFO  com.estore.utility.Log - Entered quantity
+12:45:03.382 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+12:45:10.857 [main] INFO  com.estore.utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+12:45:10.920 [main] INFO  com.estore.utility.Log - totalExpectedPrice validated successfully
+12:45:10.920 [main] INFO  com.estore.utility.Log - *********************************Ended totalPriceTest******************************************
+12:45:20.871 [main] INFO  com.estore.utility.Log - ********************************Started addToCartTest*****************************************
+12:45:20.871 [main] INFO  com.estore.utility.Log - Index Page load
+12:45:33.738 [main] INFO  com.estore.utility.Log - Search Result Page loaded
+12:45:39.394 [main] INFO  com.estore.utility.Log - Clicked on product on Search Result Page
+12:45:39.499 [main] INFO  com.estore.utility.Log - Entered quantity
+12:45:39.681 [main] INFO  com.estore.utility.Log - Clicked on Add to Cart button
+12:45:43.473 [main] INFO  com.estore.utility.Log - Element displayed
+12:45:43.473 [main] INFO  com.estore.utility.Log - addToCartMessage validated successfully
+12:45:43.474 [main] INFO  com.estore.utility.Log - *********************************Ended addToCartTest******************************************
